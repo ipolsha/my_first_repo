@@ -9,3 +9,5 @@
 ## Использование
 ```bash
 python api_reader.py
+
+<img width="1280" height="632" alt="image" src="https://github.com/user-attachments/assets/55c08a1e-07db-4c50-8cce-d357ee488794" />
