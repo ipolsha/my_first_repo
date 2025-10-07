@@ -10,3 +10,5 @@ Notebooks: my_notebook - загрузка данных и конвертация
 
 Мои данные с таким типом:
 <img width="1280" height="667" alt="image" src="https://github.com/user-attachments/assets/e39b68e2-da41-42b9-93fb-4070801ca3b5" />
+
+
