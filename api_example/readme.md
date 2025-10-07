@@ -1,4 +1,6 @@
 # API Reader Example
+<img width="1280" height="632" alt="image" src="https://github.com/user-attachments/assets/179674f0-954d-4946-8066-bc1843af3218" />
+
 
 ## Описание
 Скрипт для загрузки и обработки данных из Google Sheets через публичный API.
@@ -8,6 +10,7 @@
 
 ## Использование
 ```bash
+
 python api_reader.py
 
-<img width="1280" height="632" alt="image" src="https://github.com/user-attachments/assets/55c08a1e-07db-4c50-8cce-d357ee488794" />
+
