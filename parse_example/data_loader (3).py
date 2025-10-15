@@ -63,5 +63,9 @@ data["Duration after transfection new"] = data[
 data = data.drop(columns=["SMDB_id", "Concentration", "Duration after transfection"])
 print("Типы данных после преобразования:")
 print(data.dtypes)
+
 data.to_csv("new_data.csv")
 print("Датасет сохранен под именем new_data.csv")
+
+data.to_parquet("new_data.parquet", index=False)
+print("Датасет сохранен под именем new_data.parquet")
